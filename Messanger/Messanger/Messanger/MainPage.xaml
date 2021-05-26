@@ -4,6 +4,18 @@
              xmlns:local="clr-namespace:Messanger"
              x:Class="Messanger.MainPage">
 
+    <ContentPage.BindingContext>
+        <local:ViewModelVk/>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="LoginEntry" Text="{Binding Login}"/>
+            <Entry x:Name="PasswordEntry" Text="{Binding Password}"/>
+            <Label Text="{Binding AccauntName}"/>
+            <Button Command="{Binding auth}"/>
+        </StackLayout>
+    </ContentPage.Content>
+   
     
-
+  
 </ContentPage>

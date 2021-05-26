@@ -24,3 +24,9 @@ Xamarin.Forms.Core
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
+Newtonsoft.Json
+HtmlAgilityPack
+Microsoft.Extensions.DependencyInjection.Abstractions
+Microsoft.Extensions.DependencyInjection
+Microsoft.Extensions.Logging.Abstractions
+VkNet

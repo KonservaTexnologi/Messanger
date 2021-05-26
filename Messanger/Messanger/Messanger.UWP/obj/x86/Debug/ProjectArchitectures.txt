@@ -1,0 +1,1 @@
+C:\Users\kholo\source\repos\Messanger\Messanger\Messanger\Messanger.UWP\Messanger.UWP.csproj;x86

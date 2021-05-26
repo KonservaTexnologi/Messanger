@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using VkNet;
 
 namespace Messanger
 {
@@ -12,6 +13,9 @@ namespace Messanger
         public MainPage()
         {
             InitializeComponent();
+
+           
+            
         }
     }
 }
