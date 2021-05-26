@@ -28,6 +28,8 @@ namespace Messanger
             auth = new Command(Auth);
         }
 
+
+        // Авторизация ВКонтакте
         public void Auth()
         {
             api.Authorize(new ApiAuthParams
@@ -38,9 +40,9 @@ namespace Messanger
                 Settings = Settings.All
             });
 
-            return;
         }
 
+        // получение Логина
         public string Login
         {
             get { return ModelVk.Login; }
@@ -54,6 +56,7 @@ namespace Messanger
             }
         }
 
+        // получения Пароля
         public string Password
         {
             get { return ModelVk.Password; }
@@ -67,6 +70,7 @@ namespace Messanger
             }
         }
 
+        // Получение имени аккаунта ВКонтакте
         public string AccauntName
         {
             get { return accauntName; }
