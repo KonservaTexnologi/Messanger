@@ -9,10 +9,10 @@
     </ContentPage.BindingContext>
     <ContentPage.Content>
         <StackLayout>
-            <Entry x:Name="LoginEntry" Text="{Binding Login}"/>
-            <Entry x:Name="PasswordEntry" Text="{Binding Password}"/>
-            <Label Text="{Binding AccauntName}"/>
-            <Button Command="{Binding auth}"/>
+            <Entry  Text="{Binding Token}"/>
+            <Button Command="{Binding auth}" Text="Авторизоваться"/>
+            <Button Text="view status" Command="{Binding viewstatus}"/>
+            <Label Text="{Binding Status}" FontSize="Large" TextColor="Black"/>
         </StackLayout>
     </ContentPage.Content>
    

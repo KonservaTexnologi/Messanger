@@ -7,6 +7,6 @@ C:\Users\kholo\source\repos\Messanger\Messanger\Messanger\Messanger\obj\Debug\ne
 C:\Users\kholo\source\repos\Messanger\Messanger\Messanger\Messanger\obj\Debug\netstandard2.0\Messanger.AssemblyInfoInputs.cache
 C:\Users\kholo\source\repos\Messanger\Messanger\Messanger\Messanger\obj\Debug\netstandard2.0\Messanger.AssemblyInfo.cs
 C:\Users\kholo\source\repos\Messanger\Messanger\Messanger\Messanger\bin\Debug\netstandard2.0\Messanger.pdb
-C:\Users\kholo\source\repos\Messanger\Messanger\Messanger\Messanger\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\kholo\source\repos\Messanger\Messanger\Messanger\Messanger\obj\Debug\netstandard2.0\Messanger.dll
 C:\Users\kholo\source\repos\Messanger\Messanger\Messanger\Messanger\obj\Debug\netstandard2.0\Messanger.pdb
+C:\Users\kholo\source\repos\Messanger\Messanger\Messanger\Messanger\obj\Debug\netstandard2.0\XamlC.stamp

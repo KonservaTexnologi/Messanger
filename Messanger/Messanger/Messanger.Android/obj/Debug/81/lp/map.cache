@@ -30,3 +30,5 @@ Microsoft.Extensions.DependencyInjection.Abstractions
 Microsoft.Extensions.DependencyInjection
 Microsoft.Extensions.Logging.Abstractions
 VkNet
+Xamarin.Android.Support.CustomTabs
+Xamarin.Essentials
